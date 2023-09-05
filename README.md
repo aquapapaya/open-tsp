@@ -13,4 +13,4 @@
 Tour and distance
 
 ## Comment
-It will create a distance matrix from a input file.
+It will create a distance matrix from a input file. To solve open TSP, A pseudo city whose distance to all the others is zero is added to the matrix.
